@@ -55,6 +55,3 @@ There's a small xUnit test skeleton under `TodoApi.Tests` — run tests with:
 ```bash
 dotnet test
 ```
-
-## What to put on your CV / README short line
-> Built a CRUD REST API in ASP.NET Core with EF Core (SQLite) and unit tests; documented run steps and example requests.
